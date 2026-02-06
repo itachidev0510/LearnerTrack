@@ -1,0 +1,10 @@
+JDK version used
+javac 25
+
+Screenshots or brief explanation of “Hello World” program run.
+It is simplest program to verify that java environment is setup correctly.
+
+the program execution starts with main method which is the entry point of a java application
+inside the main method we have print which will print the text on the console("hello world")
+
+When the program is compiled and run, the JVM executes the main method and displays the output in the console.

@@ -1,0 +1,9 @@
+Why you used ArrayList instead of array
+ArrayList will increase the size at dynamically, whereas array size is fixed.
+for our project we will n number of student so it increase the size by itself and also helps us to use inbuild functions like remove,add.
+
+Where you used static members and why
+when you want data or logic at class not at object level.
+
+Where you used inheritance and what you gained from it
+Reuse of the common attribute from parent class, and avoid code duplication

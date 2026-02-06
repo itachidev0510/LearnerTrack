@@ -1,0 +1,52 @@
+Learner Track Management
+
+(Core Java | Menu-Based Console Application)
+
+Project Overview
+
+Learner Track Management is a menu-based console application developed using Core Java concepts.
+The application allows users to manage Students, Courses, and Enrollments through an interactive command-line menu.
+
+The system demonstrates the use of:
+
+Object-Oriented Programming (OOP)
+
+Layered architecture
+
+In-memory data handling
+
+Business rule validation
+
+Core Entities
+
+The application is built around the following main classes:
+
+Student – Represents a learner in the system
+
+Course – Represents a course that can be offered
+
+Enrollment – Represents the association between a student and a course
+
+Application Flow
+
+The user is prompted with menu options on the console.
+
+Based on the selected option, the user can:
+
+Add a new student
+
+View the list of students
+
+Deactivate a student (soft delete using status)
+
+Add a new course
+
+View the list of courses
+
+Deactivate a course
+
+Enroll a student into a course
+
+View enrollment details
+
+All data is stored in memory using Java collections.
