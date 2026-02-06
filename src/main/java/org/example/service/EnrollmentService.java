@@ -94,7 +94,9 @@ public class EnrollmentService {
         else {
             existingEnrollement.setStatus(EnrollementStatus.ACTIVE);
         }
+
         enrollmentRepository.UpdateEnrollement(existingEnrollement);
+
         return existingEnrollement;
     }
 }
